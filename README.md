@@ -29,3 +29,7 @@ Simple conversational flow design
 Users interact with the chatbot via a text-based interface, such as the command line or a basic web app. The chatbot responds in real-time, offering information, answering questions, or guiding users through specific topics like weather, help, or general knowledge.
 
 In summary, this project highlights the integration of NLP into real-world applications by building a chatbot that is both interactive and intelligent. It is a great foundation for anyone looking to explore conversational AI, virtual assistants, or automated customer support bots using Python and NLP libraries.
+
+*OUTPUT*
+
+<img width="1412" height="352" alt="Image" src="https://github.com/user-attachments/assets/28c11afc-6224-4cbe-af09-29cb9795ca93" />
